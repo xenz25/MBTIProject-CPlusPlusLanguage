@@ -5,7 +5,7 @@ A console application which can define different personality based on Myers–Br
 This project was created for my Fundamentals of Programming Course that uses C++ as the Main Language.
 
 # Developers
-> Prject Leader: 
+> Project Leader: 
 - Zian Jolo M. Catacutan
 > Members:
 - Algen Malazarte
@@ -17,5 +17,5 @@ This project was created for my Fundamentals of Programming Course that uses C++
 > The content of this test comes from:
 - http://www.thepersonalitypage.com
 - and was written by Robert Heyward.
-> Other Source: \n";
+> Other Source:
 - https://www.google.com/amp/s/www.teamtechnology.co.uk/amp/tt/t-articl/mb-simpl.htm
